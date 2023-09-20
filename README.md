@@ -1,2 +1,2 @@
 # Bogl
-Blog App (CRUD)
+Blog Application
